@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Gradle local cache
+.gradle/
+
+# IDE local files
+.idea/
+*.iml
+
